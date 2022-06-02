@@ -1,2 +1,4 @@
-# go_tcp_precess
-受python的locust启发，做的支持自定义协议过程和事件框架的go语言tcp压测工具。
+# go_locust
+
+用go重写的python_locust引擎，目前还在前期阶段。
+从时间上来看要以项目为重，先以实现业务为主了，后面再慢慢完善引擎
