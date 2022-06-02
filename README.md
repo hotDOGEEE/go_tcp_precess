@@ -1,0 +1,2 @@
+# go_tcp_precess
+受python的locust启发，做的支持自定义协议过程和事件框架的go语言tcp压测工具。
